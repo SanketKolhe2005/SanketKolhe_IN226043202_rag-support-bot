@@ -51,9 +51,7 @@ Relevant Chunks
 LLM (Groq)  
 ↓  
 Decision Layer (LangGraph)  
-
 ├── Answer  
-
 └── Escalation (HITL)   
 
 
